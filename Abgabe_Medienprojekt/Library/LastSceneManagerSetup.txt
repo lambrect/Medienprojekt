@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "Assets/Scenes/verh\xE4ngnissvolle Entscheidung Szene.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

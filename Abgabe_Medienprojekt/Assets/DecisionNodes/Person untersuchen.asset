@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25339c1aa8681d648b1393244bf4470b, type: 3}
+  m_Name: Person untersuchen
+  m_EditorClassIdentifier: 
+  mainvideos:
+  - {fileID: 32900000, guid: 093d5ff1b803e35438f847096bc910d7, type: 3}
+  - {fileID: 32900000, guid: 487f73cfd18f7c64c8f6b13d71a57f91, type: 3}
+  - {fileID: 32900000, guid: bd2d0f87556d71243aa9a87bb5bff383, type: 3}
+  nextNodes:
+  - {fileID: 11400000, guid: 696b84c6b5580094199a50619a5fbfe1, type: 2}
+  - {fileID: 11400000, guid: 884e53b8d1dc05a49b289f587e557e60, type: 2}
+  - {fileID: 11400000, guid: 1e92c08a4fe812d42a388fa628a58e5d, type: 2}
+  Decision: Person untersuchen

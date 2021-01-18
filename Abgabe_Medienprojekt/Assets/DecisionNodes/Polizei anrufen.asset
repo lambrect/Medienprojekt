@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25339c1aa8681d648b1393244bf4470b, type: 3}
+  m_Name: Polizei anrufen
+  m_EditorClassIdentifier: 
+  mainvideos:
+  - {fileID: 32900000, guid: d73562a8cdbef484d94cd381365648a1, type: 3}
+  - {fileID: 32900000, guid: 487f73cfd18f7c64c8f6b13d71a57f91, type: 3}
+  - {fileID: 32900000, guid: 1454b19825b9ae64a894b62edfd1c249, type: 3}
+  nextNodes:
+  - {fileID: 11400000, guid: 884e53b8d1dc05a49b289f587e557e60, type: 2}
+  - {fileID: 11400000, guid: 696b84c6b5580094199a50619a5fbfe1, type: 2}
+  Decision: Polizei anrufen

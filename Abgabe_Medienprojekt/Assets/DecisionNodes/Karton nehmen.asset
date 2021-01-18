@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25339c1aa8681d648b1393244bf4470b, type: 3}
+  m_Name: Karton nehmen
+  m_EditorClassIdentifier: 
+  mainvideos:
+  - {fileID: 32900000, guid: dcb8cfc99180e26478834921446674d2, type: 3}
+  - {fileID: 32900000, guid: 550050d5432458b43a5da174cf5b00be, type: 3}
+  nextNodes:
+  - {fileID: 11400000, guid: 023d483c9ee96e34e9f70d36db97acfb, type: 2}
+  Decision: Karton nehmen

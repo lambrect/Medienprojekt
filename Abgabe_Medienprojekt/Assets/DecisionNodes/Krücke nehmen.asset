@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25339c1aa8681d648b1393244bf4470b, type: 3}
+  m_Name: "Kr\xFCcke nehmen"
+  m_EditorClassIdentifier: 
+  mainvideos:
+  - {fileID: 32900000, guid: 7fff51486117a754ca334fc77c0bf1bf, type: 3}
+  nextNodes:
+  - {fileID: 11400000, guid: bf4f37bae0f002c47a50150850fa5612, type: 2}
+  Decision: "Kr\xFCcke nehmen"

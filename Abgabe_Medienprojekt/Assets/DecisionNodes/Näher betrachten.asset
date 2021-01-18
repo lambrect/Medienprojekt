@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25339c1aa8681d648b1393244bf4470b, type: 3}
+  m_Name: "N\xE4her betrachten"
+  m_EditorClassIdentifier: 
+  mainvideos:
+  - {fileID: 32900000, guid: 9d1c00f0b45ae4d43a299fe91f7afe26, type: 3}
+  nextNodes:
+  - {fileID: 11400000, guid: 4bfd9ab14225a2d438a65b40ef384a4c, type: 2}
+  - {fileID: 11400000, guid: dedcc925a98bbdf45aa409df08e8557e, type: 2}
+  - {fileID: 11400000, guid: 04e23096dd018f64f89350870fa4535a, type: 2}
+  Decision: "N\xE4her betrachten"
